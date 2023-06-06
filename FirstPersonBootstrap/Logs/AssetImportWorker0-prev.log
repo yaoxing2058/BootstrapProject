@@ -1,0 +1,142 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Users/yaoxing2058/Documents/Unity/2020.3.1f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/yaoxing2058/Desktop/Coding Minds/UnityBootstrap/FirstPersonBootstrap
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54508
+Successfully changed project path to: /Users/yaoxing2058/Desktop/Coding Minds/UnityBootstrap/FirstPersonBootstrap
+/Users/yaoxing2058/Desktop/Coding Minds/UnityBootstrap/FirstPersonBootstrap
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 28.76 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path /Users/yaoxing2058/Documents/Unity/2020.3.1f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/yaoxing2058/Desktop/Coding Minds/UnityBootstrap/FirstPersonBootstrap/Assets
+GfxDevice: creating device client; threaded=0
+2023-06-05 00:24:40.283 Unity[37113:1617747] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics (low power)
+2023-06-05 00:24:40.283 Unity[37113:1617747] Metal devices available: 1
+2023-06-05 00:24:40.283 Unity[37113:1617747] 0: Intel(R) Iris(TM) Plus Graphics (low power)
+2023-06-05 00:24:40.284 Unity[37113:1617747] Using device Intel(R) Iris(TM) Plus Graphics (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics
+Initialize mono
+Mono path[0] = '/Users/yaoxing2058/Documents/Unity/2020.3.1f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Users/yaoxing2058/Documents/Unity/2020.3.1f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Users/yaoxing2058/Documents/Unity/2020.3.1f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56113
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Users/yaoxing2058/Documents/Unity/2020.3.1f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.002983 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 24.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.063 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003264 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.807 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Users/yaoxing2058/Documents/Unity/2020.3.1f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1185 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 41.0 MB.
+System memory in use after: 41.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1651.
+Total: 2.613262 ms (FindLiveObjects: 0.243450 ms CreateObjectMapping: 0.068257 ms MarkObjects: 2.075000 ms  DeleteObjects: 0.224839 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Art Assets/Skybox360.mat
+  artifactKey: Guid(f7c5468b1868942989132ca76ee22121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art Assets/Skybox360.mat using Guid(f7c5468b1868942989132ca76ee22121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e68ae2f321b8b4291121433e8d14456c') in 0.395931 seconds
+  Import took 0.401666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29717.847320 seconds.
+  path: Assets/Scripts/Interaction System/InteractableObject.cs
+  artifactKey: Guid(5f825b6702b884dbdb37d75c8b107e14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Interaction System/InteractableObject.cs using Guid(5f825b6702b884dbdb37d75c8b107e14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00685ff689653135661b476f9fc9dba2') in 0.319987 seconds
+  Import took 0.378075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.859897 seconds.
+  path: Assets/Scripts/Interaction System/Interaction.cs
+  artifactKey: Guid(2c488f6e4483b4b4e8ab998dcb44091c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Interaction System/Interaction.cs using Guid(2c488f6e4483b4b4e8ab998dcb44091c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f8645beb173a3573bf2280905edfc67') in 0.006478 seconds
+  Import took 0.010039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000512 seconds.
+  path: Assets/Scripts/Interaction System/Interaction.cs
+  artifactKey: Guid(2c488f6e4483b4b4e8ab998dcb44091c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Interaction System/Interaction.cs using Guid(2c488f6e4483b4b4e8ab998dcb44091c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f8645beb173a3573bf2280905edfc67') in 0.006143 seconds
+  Import took 0.009827 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000761 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.841 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1167 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 198.9 MB.
+System memory in use after: 199.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1694.
+Total: 1.961674 ms (FindLiveObjects: 0.315187 ms CreateObjectMapping: 0.093105 ms MarkObjects: 1.462996 ms  DeleteObjects: 0.088462 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.557970 seconds.
+  path: Assets/Scripts/TimerScript.cs
+  artifactKey: Guid(5ddf4bd6d380348778e50a791ba4f8f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/TimerScript.cs using Guid(5ddf4bd6d380348778e50a791ba4f8f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe0bf7d1f656e025f87e12a49aa89de1') in 0.008211 seconds
+  Import took 0.011317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.021018 seconds.
+  path: Assets/Scripts/PlayerReset.cs
+  artifactKey: Guid(c18b6aab4d63e4a6e95b48101aac7e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerReset.cs using Guid(c18b6aab4d63e4a6e95b48101aac7e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '598e9021185359e8d5aae0131deb078f') in 0.005028 seconds
+  Import took 0.008644 seconds .
+
